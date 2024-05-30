@@ -33,7 +33,8 @@
         <preference name="com.braze.api_key" value="30c6582f-0876-4559-a789-f33b3fb6d6de" />
         <preference name="com.braze.android_api_endpoint" value="sdk.iad-03.braze.com" />
         <preference name="com.braze.firebase_cloud_messaging_registration_enabled" value="true" />
-        <preference name="com.braze.android_fcm_sender_id" value="str_900857597716" />
+        <preference name="com.braze.android_fcm_sender_id" value="446129916181" />
+<!--         <preference name="com.braze.android_fcm_sender_id" value="str_900857597716" /> -->
         <preference name="com.braze.android_default_session_timeout" value="str_5" />
         <preference name="com.braze.android_handle_push_deep_links_automatically" value="true" />
         <preference name="com.braze.android_log_level" value="str_4" />
